@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Portfolio
+# Portfolio
 
-# Pixel Art Shader
+## Pixel Art Shader
 ![program results](https://github.com/MariamFahmy/pixel-art-shader/blob/main/program_results.png "program results")
