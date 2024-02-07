@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 -->
 # Portfolio
 
-## Pixel Art Shader
+## Pixel Art Shader: https://github.com/MariamFahmy/pixel-art-shader
 ![program results](https://github.com/MariamFahmy/pixel-art-shader/blob/main/program_results.png "program results")
