@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Contribute to My Open Source Projects
+# Projects
 
 ## [Pixel Art Shader](https://github.com/MariamFahmy/pixel-art-shader)
 Demo: https://www.youtube.com/watch?v=33y9JV2fO6A
