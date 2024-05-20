@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 Demo: https://www.youtube.com/watch?v=33y9JV2fO6A
 
 ![program results](https://github.com/MariamFahmy/pixel-art-shader/blob/main/program_results.png "https://github.com/MariamFahmy/pixel-art-shader)https://github.com/MariamFahmy/pixel-art-shader")
+
+## [Animal Behaviours Three.js Art Installation](https://github.com/MariamFahmy/Animal-Behaviours-Art-Installation)
+Demo: https://youtu.be/jDNxV8kc_J0?si=_tRXh0Q8739wO6gM 
