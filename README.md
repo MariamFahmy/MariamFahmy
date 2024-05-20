@@ -16,7 +16,7 @@ Demo: https://youtu.be/xeNuv3aw6E4?si=NP0Jskyq0czAw8L0
 
 ![image](https://github.com/MariamFahmy/MariamFahmy/assets/51763380/dfa7d3b8-9c18-4cae-8961-114c241a4c39)
 
-## [Pixel Art Shader](https://github.com/MariamFahmy/pixel-art-shader)
+## [Pixel-Art Shader](https://github.com/MariamFahmy/pixel-art-shader)
 Demo: https://www.youtube.com/watch?v=33y9JV2fO6A
 
 ![Screenshot 2024-05-16 182449](https://github.com/MariamFahmy/MariamFahmy/assets/51763380/8d66cc12-b36e-4c30-8c12-e9a3764250cd)
