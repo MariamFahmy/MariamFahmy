@@ -19,3 +19,4 @@ Demo: https://www.youtube.com/watch?v=33y9JV2fO6A
 
 ## [Animal Behaviours Three.js Art Installation](https://github.com/MariamFahmy/Animal-Behaviours-Art-Installation)
 Demo: https://youtu.be/jDNxV8kc_J0?si=_tRXh0Q8739wO6gM 
+![image](https://github.com/MariamFahmy/MariamFahmy/assets/51763380/6d56ffb4-644b-4306-bf0d-f80e6d41093b)
