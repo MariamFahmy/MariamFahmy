@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 ## [Personal Website](https://github.com/MariamFahmy/mariamfahmy.github.io)
 Link: https://mariamfahmy.github.io/
 
-![image](https://github.com/user-attachments/assets/d6bf503e-f90a-4d9d-a43a-3137148b7799)
+[![image](https://github.com/user-attachments/assets/d6bf503e-f90a-4d9d-a43a-3137148b7799)](https://mariamfahmy.github.io/)
 
 ## [Pixel-Art Shader](https://github.com/MariamFahmy/pixel-art-shader)
 Demo: https://www.youtube.com/watch?v=33y9JV2fO6A
