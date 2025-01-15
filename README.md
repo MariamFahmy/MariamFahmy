@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 # Projects
 ## [Personal Website](https://github.com/MariamFahmy/mariamfahmy.github.io)
 Link: https://mariamfahmy.github.io/
+
 ![image](https://github.com/user-attachments/assets/d6bf503e-f90a-4d9d-a43a-3137148b7799)
 
 ## [Pixel-Art Shader](https://github.com/MariamFahmy/pixel-art-shader)
