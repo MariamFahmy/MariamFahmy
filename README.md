@@ -23,7 +23,6 @@ Demo: https://youtu.be/jDNxV8kc_J0?si=_tRXh0Q8739wO6gM
 ## [C++ Game: Saving the Mushroom Kingdom](https://www.youtube.com/watch?v=pZu55WiEb2M)
 [![image](https://github.com/user-attachments/assets/230b8bc3-c1e8-4ad8-9d3c-67a3db4dbc65)](https://www.youtube.com/watch?v=pZu55WiEb2M)
 
-
 ## [Python: Pixel-Art Shader](https://github.com/MariamFahmy/pixel-art-shader)
 Demo: https://www.youtube.com/watch?v=33y9JV2fO6A
 
