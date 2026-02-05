@@ -20,7 +20,7 @@ Link: https://mariamfahmy.github.io/
 Demo: https://youtu.be/jDNxV8kc_J0?si=_tRXh0Q8739wO6gM 
 ![image](https://github.com/MariamFahmy/MariamFahmy/assets/51763380/6d56ffb4-644b-4306-bf0d-f80e6d41093b)
 
-## [C++ Game: Saving the Mushroom Kingdom](https://www.youtube.com/watch?v=pZu55WiEb2M)
+## [C++ Game: Saving the Mushroom Kingdom (Group Project)](https://www.youtube.com/watch?v=pZu55WiEb2M)
 [![image](https://github.com/user-attachments/assets/230b8bc3-c1e8-4ad8-9d3c-67a3db4dbc65)](https://www.youtube.com/watch?v=pZu55WiEb2M)
 
 ## [Python: Pixel-Art Shader](https://github.com/MariamFahmy/pixel-art-shader)
