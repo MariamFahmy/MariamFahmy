@@ -16,19 +16,23 @@ Link: https://mariamfahmy.github.io/
 
 [![image](https://github.com/user-attachments/assets/d6bf503e-f90a-4d9d-a43a-3137148b7799)](https://mariamfahmy.github.io/)
 
-## [Pixel-Art Shader](https://github.com/MariamFahmy/pixel-art-shader)
+## [Game AI + JavaScript: Animal Behaviours Three.js Art Installation](https://github.com/MariamFahmy/Animal-Behaviours-Art-Installation)
+Demo: https://youtu.be/jDNxV8kc_J0?si=_tRXh0Q8739wO6gM 
+![image](https://github.com/MariamFahmy/MariamFahmy/assets/51763380/6d56ffb4-644b-4306-bf0d-f80e6d41093b)
+
+## [C++ Game: Saving the Mushroom Kingdom](https://www.youtube.com/watch?v=pZu55WiEb2M)
+<img width="969" height="750" alt="saving the mushroom kingdom" src="https://github.com/user-attachments/assets/230b8bc3-c1e8-4ad8-9d3c-67a3db4dbc65" />
+
+
+## [Python: Pixel-Art Shader](https://github.com/MariamFahmy/pixel-art-shader)
 Demo: https://www.youtube.com/watch?v=33y9JV2fO6A
 
 ![image](https://github.com/MariamFahmy/MariamFahmy/assets/51763380/79e44059-f0b4-4301-b23f-3645256a20b6)
 
-## [Android Sharing App Contacts Feature](https://github.com/MariamFahmy/Android-App-Contact-List-Feature)
+## [Java: Android Sharing App Contacts Feature](https://github.com/MariamFahmy/Android-App-Contact-List-Feature)
 Demo: https://youtu.be/xeNuv3aw6E4?si=NP0Jskyq0czAw8L0
 
 ![image](https://github.com/MariamFahmy/MariamFahmy/assets/51763380/dfa7d3b8-9c18-4cae-8961-114c241a4c39)
-
-## [Animal Behaviours Three.js Art Installation](https://github.com/MariamFahmy/Animal-Behaviours-Art-Installation)
-Demo: https://youtu.be/jDNxV8kc_J0?si=_tRXh0Q8739wO6gM 
-![image](https://github.com/MariamFahmy/MariamFahmy/assets/51763380/6d56ffb4-644b-4306-bf0d-f80e6d41093b)
 
 ## [Advanced React Final Project](https://github.com/MariamFahmy/Portfolio-Final-Assignment/tree/main)
 Demo: https://www.youtube.com/watch?v=LAsxDGxha_M
