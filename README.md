@@ -16,7 +16,7 @@ Link: https://mariamfahmy.github.io/
 
 [![image](https://github.com/user-attachments/assets/d6bf503e-f90a-4d9d-a43a-3137148b7799)](https://mariamfahmy.github.io/)
 
-## [Game AI + JavaScript: Animal Behaviours Three.js Art Installation]([https://github.com/MariamFahmy/Animal-Behaviours-Art-Installation](https://animal-behaviours.vercel.app/))
+## [Game AI + JavaScript: Animal Behaviours Three.js Art Installation](https://animal-behaviours.vercel.app/)
 Demo: https://youtu.be/jDNxV8kc_J0?si=_tRXh0Q8739wO6gM 
 ![image](https://github.com/MariamFahmy/MariamFahmy/assets/51763380/6d56ffb4-644b-4306-bf0d-f80e6d41093b)
 
