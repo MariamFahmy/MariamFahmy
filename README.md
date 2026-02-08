@@ -12,9 +12,13 @@ Here are some ideas to get you started:
 -->
 # Projects
 ## [Personal Website](https://github.com/MariamFahmy/mariamfahmy.github.io)
+Link: https://mariamfahmy.github.io/
+Repository: https://github.com/MariamFahmy/mariamfahmy.github.io
 [![image](https://github.com/user-attachments/assets/d6bf503e-f90a-4d9d-a43a-3137148b7799)](https://mariamfahmy.github.io/)
 
-## [Game AI + JavaScript: Animal Behaviours Three.js Art Installation](https://github.com/MariamFahmy/Animal-Behaviours-Art-Installation)
+## [Game AI + JavaScript: Animal Behaviours Three.js Art Installation](https://animal-behaviours.vercel.app/)
+Link: https://animal-behaviours.vercel.app/
+Repository: https://github.com/MariamFahmy/Animal-Behaviours-Art-Installation
 [![image](https://github.com/MariamFahmy/MariamFahmy/assets/51763380/6d56ffb4-644b-4306-bf0d-f80e6d41093b)](https://animal-behaviours.vercel.app/)
 
 ## [C++ Game: Saving the Mushroom Kingdom (Group Project)](https://www.youtube.com/watch?v=pZu55WiEb2M)
