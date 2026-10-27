@@ -1,9 +1,4 @@
 # Projects
-## [Personal Website](https://github.com/MariamFahmy/mariamfahmy.github.io)
-Link: https://mariamfahmy.github.io/
-Repository: https://github.com/MariamFahmy/mariamfahmy.github.io
-[![image](https://github.com/user-attachments/assets/d6bf503e-f90a-4d9d-a43a-3137148b7799)](https://mariamfahmy.github.io/)
-
 ## [Game AI + JavaScript: Animal Behaviours Three.js Art Installation](https://animal-behaviours.vercel.app/)
 Link: https://animal-behaviours.vercel.app/
 Repository: https://github.com/MariamFahmy/Animal-Behaviours-Art-Installation
@@ -16,6 +11,11 @@ Repository: https://github.com/MariamFahmy/Animal-Behaviours-Art-Installation
 Demo: https://www.youtube.com/watch?v=33y9JV2fO6A
 
 ![image](https://github.com/MariamFahmy/MariamFahmy/assets/51763380/79e44059-f0b4-4301-b23f-3645256a20b6)
+
+## [Personal Website](https://github.com/MariamFahmy/mariamfahmy.github.io)
+Link: https://mariamfahmy.github.io/
+Repository: https://github.com/MariamFahmy/mariamfahmy.github.io
+[![image](https://github.com/user-attachments/assets/d6bf503e-f90a-4d9d-a43a-3137148b7799)](https://mariamfahmy.github.io/)
 
 ## [Java: Android Sharing App Contacts Feature](https://github.com/MariamFahmy/Android-App-Contact-List-Feature)
 Demo: https://youtu.be/xeNuv3aw6E4?si=NP0Jskyq0czAw8L0
