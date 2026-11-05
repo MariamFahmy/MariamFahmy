@@ -5,7 +5,7 @@ Repository: https://github.com/MariamFahmy/Animal-Behaviours-Art-Installation
 [![image](https://github.com/MariamFahmy/MariamFahmy/assets/51763380/6d56ffb4-644b-4306-bf0d-f80e6d41093b)](https://animal-behaviours.vercel.app/)
 
 ## [C++ Game: Saving the Mushroom Kingdom (Group Project)](https://www.youtube.com/watch?v=pZu55WiEb2M&list=PLPK_4N_fmojLwylkSFc_sVg_OxE9J8pT0&index=3)
-[![image](https://github.com/user-attachments/assets/230b8bc3-c1e8-4ad8-9d3c-67a3db4dbc65)]
+[![image](https://github.com/user-attachments/assets/230b8bc3-c1e8-4ad8-9d3c-67a3db4dbc65)](https://www.youtube.com/watch?v=pZu55WiEb2M&list=PLPK_4N_fmojLwylkSFc_sVg_OxE9J8pT0&index=3)
 
 ## [Python: Pixel-Art Shader](https://github.com/MariamFahmy/pixel-art-shader)
 Demo: https://www.youtube.com/watch?v=33y9JV2fO6A
