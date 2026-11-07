@@ -1,4 +1,5 @@
-# Projects
+# Playlist of all my projects: https://youtube.com/playlist?list=PLPK_4N_fmojLwylkSFc_sVg_OxE9J8pT0&si=wqwzRAnhWYxXngu4
+
 ## [Game AI + JavaScript: Animal Behaviours Three.js Art Installation](https://animal-behaviours.vercel.app/)
 Link: https://animal-behaviours.vercel.app/
 Repository: https://github.com/MariamFahmy/Animal-Behaviours-Art-Installation
